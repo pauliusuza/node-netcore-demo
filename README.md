@@ -2,7 +2,7 @@
 
 This project demonstrates the minimum setup needed to run a DLL compiled with NetCore 1.0 inside Node.js using Edge.js framework.
 
-## SETUP for OSX
+## SETUP for macOS
 
 ### Prerequisites
 
