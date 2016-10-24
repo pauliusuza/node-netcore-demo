@@ -41,7 +41,7 @@ dotnet build
 node node/app.js
 ```
 
-## SETUP for LINUX and Windows
+## SETUP for Linux and Windows
 
 Follow instructions on how to set up NetCore for your flavor of OS:
 https://www.microsoft.com/net/core
