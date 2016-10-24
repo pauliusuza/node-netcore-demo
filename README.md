@@ -2,6 +2,10 @@
 
 This project demonstrates the minimum setup needed to run a DLL compiled with NetCore 1.0 inside Node.js using Edge.js framework.
 
+# Why?
+
+This setup opens possibilities for deploying hybrid open source / closed source Node.js powered applications for enterprise (on premises) server environments, or desktop environments such as Electron.
+
 ## Setup for macOS
 
 ### Prerequisites
