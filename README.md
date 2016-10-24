@@ -2,9 +2,9 @@
 
 This project demonstrates the minimum setup needed to run a DLL compiled with NetCore 1.0 inside Node.js using Edge.js framework.
 
-## SETUP for OSX:
+## SETUP for OSX
 
-### prerequisites:
+### Prerequisites
 
 Install brew (if you don't have it):
 http://brew.sh
@@ -17,12 +17,12 @@ ln -s /usr/local/opt/openssl/lib/libcrypto.1.0.0.dylib /usr/local/lib/
 ln -s /usr/local/opt/openssl/lib/libssl.1.0.0.dylib /usr/local/lib/
 ```
 
-### net core:
+### Net Core:
 
 Download latest version from 
 https://go.microsoft.com/fwlink/?LinkID=831679
 
-### running the app
+### Running the app
 
 Install Node.js prerequisites
 ```
@@ -40,3 +40,8 @@ Build .dll file and run the app
 dotnet build
 node node/app.js
 ```
+
+## SETUP for LINUX and Windows
+
+Follow instructions on how to set up NetCore for your flavor of OS:
+https://www.microsoft.com/net/core
